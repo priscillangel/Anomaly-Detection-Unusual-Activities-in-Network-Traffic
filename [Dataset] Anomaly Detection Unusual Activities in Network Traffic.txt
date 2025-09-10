@@ -1,0 +1,7 @@
+Anomaly Detection: Unusual Activities in Network Traffic
+
+1. Dataset A
+https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15
+
+2. Dataset B
+https://www.kaggle.com/datasets/agungpambudi/network-malware-detection-connection-analysis 
